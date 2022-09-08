@@ -1,3 +1,4 @@
+"""CONFIG FILE"""
 from os import path, getenv
 from dotenv import load_dotenv
 

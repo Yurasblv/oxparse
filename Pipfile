@@ -13,6 +13,7 @@ sqlalchemy = "==1.4.41"
 flask-migrate = "*"
 psycopg2-binary = "==2.9.3"
 black = "*"
+webdriver-manager = "*"
 
 [dev-packages]
 pytest = "*"
